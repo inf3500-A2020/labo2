@@ -12,7 +12,7 @@ Notre FPGA est de type **donner le type au complet ici**
 
 Voici le nombre de ressources disponibles dans notre FPGA (notez au minimum celles-là)
 
-N | Slice LUTs | Slice Registers | F7 Muxes | F8 Muxes | Bonded IOB
+N | Slice LUTs | Slice Registers | F7 Muxes | F8 Muxes | Bonded-IOB
 - | ---------- | --------------- | -------- | -------- | ----------
 nombre | nombre | nombre | nombre | nombre | nombre
 
