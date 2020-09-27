@@ -17,6 +17,15 @@ N | Slice LUTs | Slice Registers | F7 Muxes | F8 Muxes | Bonded IOB
 nombre | nombre | nombre | nombre | nombre | nombre
 
 
+** Test **
+Critères | Points
+-------- | ------
+Partie 1 : votre banc d'essai complet dans le fichier musee_labo_2_tb.vhd | 8
+Partie 2 : votre module final dans le fichier musee_labo_2.vhd | 5
+Partie 3 : votre fichier basys-3-top.bit | 2
+
+
+
 ## Méthode
 
 Pour lancer plusieurs synthèses, nous avons ... [entré les commandes à la main][exécuté un script dans l'invite de commande d'Ivado, que nous donnons ici][exécuté un script en TCL que nous donnons ici][autres]
