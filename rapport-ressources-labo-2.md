@@ -12,19 +12,12 @@ Notre FPGA est de type **donner le type au complet ici**
 
 Voici le nombre de ressources disponibles dans notre FPGA (notez au minimum celles-là)
 
-N | Slice LUTs | Slice Registers | F7 Muxes | F8 Muxes | Bonded-IOB
+
+** TODO : bogue dans le tableau dans Github, ok dans Firefox ... à régler **
+
+N | Slice LUTs | Slice Registers | F7 Muxes | F8 Muxes | Bonded IOB
 - | ---------- | --------------- | -------- | -------- | ----------
 nombre | nombre | nombre | nombre | nombre | nombre
-
-
-** Test **
-Critères | Points
--------- | ------
-Partie 1 : votre banc d'essai complet dans le fichier musee_labo_2_tb.vhd | 8
-Partie 2 : votre module final dans le fichier musee_labo_2.vhd | 5
-Partie 3 : votre fichier basys-3-top.bit | 2
-
-
 
 ## Méthode
 
@@ -35,6 +28,8 @@ Pour extraire les résultats du fichier de résultas, nous avons ... [extrait le
 ## Données
 
 Voici les données recueillies lors de nos expériences
+
+** TODO : bogue dans le tableau dans Github, ok dans Firefox ... à régler **
 
 N | Slice LUTs | Slice Registers | F7 Muxes | F8 Muxes | Bonded IOB | privimite IBUF | primitive OBUF
 - | ---------- | --------------- | -------- | -------- | ---------- | -------------- | --------------
