@@ -13,7 +13,6 @@ Notre FPGA est de type **donner le type au complet ici**
 Voici le nombre de ressources disponibles dans notre FPGA (notez au minimum celles-là)
 
 
-** TODO : bogue dans le tableau dans Github, ok dans Firefox ... à régler **
 
 |N | Slice LUTs | Slice Registers | F7 Muxes | F8 Muxes | Bonded IOB|
 |- | ---------- | --------------- | -------- | -------- | ----------|
@@ -29,7 +28,6 @@ Pour extraire les résultats du fichier de résultas, nous avons ... [extrait le
 
 Voici les données recueillies lors de nos expériences
 
-** TODO : bogue dans le tableau dans Github, ok dans Firefox ... à régler **
 
 |N | Slice LUTs | Slice Registers | F7 Muxes | F8 Muxes | Bonded IOB | privimite IBUF | primitive OBUF|
 |- | ---------- | --------------- | -------- | -------- | ----------- | -------------- | --------------|
