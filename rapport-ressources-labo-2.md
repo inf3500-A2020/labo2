@@ -14,7 +14,7 @@ Voici le nombre de ressources disponibles dans notre FPGA (notez au minimum cell
 
 N | Slice LUTs | Slice Registers | F7 Muxes | F8 Muxes | Bonded IOB
 - | ---------- | --------------- | -------- | -------- | ----------
-nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
 
 
 ## Méthode
@@ -29,21 +29,21 @@ Voici les données recueillies lors de nos expériences
 
 N | Slice LUTs | Slice Registers | F7 Muxes | F8 Muxes | Bonded IOB | privimite IBUF | primitive OBUF
 - | ---------- | --------------- | -------- | -------- | ---------- | -------------- | --------------
-4 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
-5 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
-6 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
-7 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
-8 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
-9 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
-10 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
-11 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
-12 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
-16 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
-20 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
-24 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
-28 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
-32 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
-etc. si nécessaire | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? 
+4 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+5 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+6 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+7 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+8 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+9 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+10 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+11 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+12 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+16 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+20 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+24 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+28 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+32 | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
+etc. si nécessaire | nombre? | nombre? | nombre? | nombre? | nombre? | nombre? | nombre?
 
 
 ## Graphique
